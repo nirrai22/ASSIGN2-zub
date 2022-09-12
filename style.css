@@ -1,0 +1,25 @@
+.add {
+  display: inline-block;
+  text-decoration: none;
+  color: palevioletred;
+  background-color: bisque;
+  border: 2px solid lavender;
+  margin-bottom: 7px;
+}
+
+.forDes {
+  background-color: palevioletred;
+  border: 2px solid black;
+  height: 20px;
+  padding: 20px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+#display {
+  padding: 10px;
+}
